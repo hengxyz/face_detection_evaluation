@@ -20,8 +20,5 @@ This is the implementation of the paper ["Face Detection in Camera Captured Imag
         organization={IEEE}
       }
       
- ### License
-This code is distributed under MIT LICENSE
-
 ### Contact
 zuheng.ming@univ-lr.fr
