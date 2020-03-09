@@ -10,12 +10,13 @@ This is the implementation of the paper ["Face Detection in Camera Captured Imag
 
 
 ### Citation
-      @inproceedings{ming2017simple,
-        title={Simple triplet loss based on intra/inter-class metric learning for face verification},
-        author={Ming, Zuheng and Chazalon, Joseph and Luqman, Muhammad Muzzamil and Visani, Muriel and Burie, Jean-Christophe},
-        booktitle={2017 IEEE International Conference on Computer Vision Workshops (ICCVW)},
-        pages={1656--1664},
-        year={2017},
+      @inproceedings{bakkali2019face,
+        title={Face Detection in Camera Captured Images of Identity Documents under Challenging Conditions},
+        author={Bakkali, Souhail and Luqman, Muhammad Muzzamil and Ming, Zuheng and Burie, Jean-Christophe},
+        booktitle={2019 International Conference on Document Analysis and Recognition Workshops (ICDARW)},
+        volume={4},
+        pages={55--60},
+        year={2019},
         organization={IEEE}
       }
       
@@ -23,5 +24,4 @@ This is the implementation of the paper ["Face Detection in Camera Captured Imag
 This code is distributed under MIT LICENSE
 
 ### Contact
-Zuheng Ming
 zuheng.ming@univ-lr.fr
