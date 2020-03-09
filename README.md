@@ -5,3 +5,23 @@ This is the implementation of the paper ["Face Detection in Camera Captured Imag
 - [Cascade-RCNN](https://arxiv.org/pdf/1712.00726.pdf) 
 - [Progressive Calibration Networks (PCN)](https://arxiv.org/pdf/1804.06039.pdf)
 
+![Fig.1](./figs/Example_cropped.png)
+![Fig.2](./figs/ROC.png)
+
+
+### Citation
+      @inproceedings{ming2017simple,
+        title={Simple triplet loss based on intra/inter-class metric learning for face verification},
+        author={Ming, Zuheng and Chazalon, Joseph and Luqman, Muhammad Muzzamil and Visani, Muriel and Burie, Jean-Christophe},
+        booktitle={2017 IEEE International Conference on Computer Vision Workshops (ICCVW)},
+        pages={1656--1664},
+        year={2017},
+        organization={IEEE}
+      }
+      
+ ### License
+This code is distributed under MIT LICENSE
+
+### Contact
+Zuheng Ming
+zuheng.ming@univ-lr.fr
